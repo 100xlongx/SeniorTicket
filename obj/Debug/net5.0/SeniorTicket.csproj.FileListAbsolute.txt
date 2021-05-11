@@ -1,0 +1,16 @@
+C:\Users\Lntinfotech\galvanize\SeniorTicket\bin\Debug\net5.0\SeniorTicket.exe
+C:\Users\Lntinfotech\galvanize\SeniorTicket\bin\Debug\net5.0\SeniorTicket.deps.json
+C:\Users\Lntinfotech\galvanize\SeniorTicket\bin\Debug\net5.0\SeniorTicket.runtimeconfig.json
+C:\Users\Lntinfotech\galvanize\SeniorTicket\bin\Debug\net5.0\SeniorTicket.runtimeconfig.dev.json
+C:\Users\Lntinfotech\galvanize\SeniorTicket\bin\Debug\net5.0\SeniorTicket.dll
+C:\Users\Lntinfotech\galvanize\SeniorTicket\bin\Debug\net5.0\ref\SeniorTicket.dll
+C:\Users\Lntinfotech\galvanize\SeniorTicket\bin\Debug\net5.0\SeniorTicket.pdb
+C:\Users\Lntinfotech\galvanize\SeniorTicket\obj\Debug\net5.0\SeniorTicket.csprojAssemblyReference.cache
+C:\Users\Lntinfotech\galvanize\SeniorTicket\obj\Debug\net5.0\SeniorTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lntinfotech\galvanize\SeniorTicket\obj\Debug\net5.0\SeniorTicket.AssemblyInfoInputs.cache
+C:\Users\Lntinfotech\galvanize\SeniorTicket\obj\Debug\net5.0\SeniorTicket.AssemblyInfo.cs
+C:\Users\Lntinfotech\galvanize\SeniorTicket\obj\Debug\net5.0\SeniorTicket.csproj.CoreCompileInputs.cache
+C:\Users\Lntinfotech\galvanize\SeniorTicket\obj\Debug\net5.0\SeniorTicket.dll
+C:\Users\Lntinfotech\galvanize\SeniorTicket\obj\Debug\net5.0\ref\SeniorTicket.dll
+C:\Users\Lntinfotech\galvanize\SeniorTicket\obj\Debug\net5.0\SeniorTicket.pdb
+C:\Users\Lntinfotech\galvanize\SeniorTicket\obj\Debug\net5.0\SeniorTicket.genruntimeconfig.cache
